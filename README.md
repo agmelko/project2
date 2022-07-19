@@ -1,1 +1,1 @@
-# project2
+курс JS_REACT
